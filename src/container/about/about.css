@@ -1,0 +1,99 @@
+
+:root {
+  --black: #000;
+  --white: #fff;
+}
+
+
+.sixn__about__container {
+  width: 100%;
+  padding: 4rem;
+  background-color: var(--black);
+  color: var(--white);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  gap: 3rem;
+}
+
+
+.sub-title {
+  font-size: 2.5rem;
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+
+.section {
+  width: 100%;
+}
+.para h2{
+  padding: 1rem 0rem;
+}
+.para {
+  padding: 2rem;
+  background-color: rgba(255, 255, 255, 0.1);
+  border-radius: 12px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.Aspro_head {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+
+.para p {
+  margin-bottom: 1rem;
+  line-height: 1.6;
+}
+
+
+.can-do-list {
+  list-style-type: disc;
+  padding-left: 2rem;
+}
+
+/* Media Queries */
+@media (max-width: 1024px) {
+  .sixn__about__container {
+    padding: 3rem;
+  }
+
+  .sub-title {
+    font-size: 2.2rem;
+  }
+
+  .para {
+    padding: 1.5rem;
+  }
+}
+
+@media (max-width: 768px) {
+  .sub-title {
+    font-size: 2rem;
+  }
+
+  .para {
+    padding: 1rem;
+  }
+
+  .Aspro_head {
+    font-size: 1.3rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .sub-title {
+    font-size: 1.8rem;
+  }
+
+  .para {
+    padding: 0.8rem;
+  }
+
+  .Aspro_head {
+    font-size: 1.2rem;
+  }
+}
