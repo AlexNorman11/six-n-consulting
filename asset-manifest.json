@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/six-n-consulting/static/css/main.39dfad1a.css",
+    "main.js": "/six-n-consulting/static/js/main.6bbde112.js",
+    "static/media/Asset 10ahahahhaha.webp": "/six-n-consulting/static/media/Asset 10ahahahhaha.6bd99033c29a781e25ea.webp",
+    "static/media/Asset 3phone.webp": "/six-n-consulting/static/media/Asset 3phone.46d568bc78f9d1d7b10e.webp",
+    "static/media/Exchange.webp": "/six-n-consulting/static/media/Exchange.1017599e1175a045b5b9.webp",
+    "static/media/raines.webp": "/six-n-consulting/static/media/raines.52d708fe1e7b1339e872.webp",
+    "static/media/settle.webp": "/six-n-consulting/static/media/settle.d06d7c4945822d138ad0.webp",
+    "static/media/holgate.webp": "/six-n-consulting/static/media/holgate.66ebb77a017526208623.webp",
+    "static/media/consult.webp": "/six-n-consulting/static/media/consult.db6aebce7d0d9df24859.webp",
+    "static/media/m3.webp": "/six-n-consulting/static/media/m3.917defc66922485bc7f4.webp",
+    "static/media/scotrail.webp": "/six-n-consulting/static/media/scotrail.f4ad53c26920ae05893d.webp",
+    "static/media/network.webp": "/six-n-consulting/static/media/network.801af5c32d2dc9e523f6.webp",
+    "static/media/bam.webp": "/six-n-consulting/static/media/bam.b4b07891f3bd9e0a222a.webp",
+    "static/media/Asset 1logo.webp": "/six-n-consulting/static/media/Asset 1logo.ec090ae442d924c2ee71.webp",
+    "static/media/story.webp": "/six-n-consulting/static/media/story.0da70bcfcf3ce8c53d70.webp",
+    "static/media/richter.webp": "/six-n-consulting/static/media/richter.7ff3c9aab99927722a66.webp",
+    "index.html": "/six-n-consulting/index.html",
+    "main.39dfad1a.css.map": "/six-n-consulting/static/css/main.39dfad1a.css.map",
+    "main.6bbde112.js.map": "/six-n-consulting/static/js/main.6bbde112.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39dfad1a.css",
+    "static/js/main.6bbde112.js"
+  ]
+}
